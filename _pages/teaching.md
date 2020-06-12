@@ -2,9 +2,11 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Teaching Assistant for following undergraduate and graduate courses
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+`UMass Amherst`
+- CS 230 (Undergraduate) : Computer Systems Principles (Fall 2018)
+- CS 220 (Undergraduate): Introduction to Problem Solving (Spring 2018)
+- CS 589 (Graduate): Machine Learning (Fall 2019)
+- CS 690OP (Graduate): Optimization for Computer Science (Spring 2019)
