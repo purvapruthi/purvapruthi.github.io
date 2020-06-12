@@ -1,5 +1,6 @@
 ---
 layout: page
+title: publications
 permalink: /publications/
 years: [2015]
 ---

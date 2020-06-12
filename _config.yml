@@ -25,7 +25,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 github_username: purvapruthi # your GitHub user name
-twitter_username: purva_pruthi # your Twitter handle
+twitter_username: @purva_pruthi # your Twitter handle
 linkedin_username: purva-pruthi-1a4b8571 # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
@@ -101,9 +101,9 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Einstein
+  last_name: Pruthi
 
-  style: apa
+  style: mla
   locale: en
 
   sort_by: year
