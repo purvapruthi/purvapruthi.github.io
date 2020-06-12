@@ -36,7 +36,7 @@ publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 
-contact_note: 
+contact_note:
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
@@ -103,7 +103,7 @@ scholar:
 
   last_name: Pruthi
 
-  style: mla
+  style: apa
   locale: en
 
   sort_by: year
