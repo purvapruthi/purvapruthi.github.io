@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
 
 
-news: true
+news: false
 social: true
 ---
 
@@ -22,6 +22,6 @@ I spent Summer 2018 at Amazon Cambridge, United Kingdom, working with <a href = 
 
 Prior to joining UMass as a graduate student, I worked at <a href = "https://www.goldmansachs.com/">Goldman Sachs</a> for three years. I worked on building statistical models for systematic investment strategies. I also worked on building statistical tools to analyze the root causes of undesirable behavior in trade settlement procedures.
 
-I graduated from <a href = "https://iitr.ac.in/">Indian Institute of Technology</a>, Roorkee in 2015. During my undergrad, I worked with <a href = "https://javiergonzalezh.github.io/">Durga Toshniwal</a> on spatio-temporal diffusion analysis of online information on Twitter. I also enjoyed doing competitive programming as part of Programming and Algorithms group in college.
+I graduated from <a href = "https://iitr.ac.in/">Indian Institute of Technology</a>, Roorkee in 2015. During my undergrad, I worked with <a href = "http://www.durgatoshniwal.in/">Durga Toshniwal</a> on spatio-temporal diffusion analysis of online information on Twitter. I also enjoyed doing competitive programming as part of Programming and Algorithms group in college.
 
 Outside of Computer Science, I enjoy reading books, writing prose-style poetry, cooking, playing piano and taking long walks looking at the sunset, stars, (and sometimes the moon!)

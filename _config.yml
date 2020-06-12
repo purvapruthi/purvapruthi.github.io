@@ -2,6 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: Purva Pruthi
+email: ppruthi@cs.umass.edu
 description: > # this means to ignore newlines until "url:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -25,9 +26,9 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 github_username: purvapruthi # your GitHub user name
-twitter_username: @purva_pruthi # your Twitter handle
+twitter_username: purva_pruthi # your Twitter handle
 linkedin_username: purva-pruthi-1a4b8571 # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: purvapruthi617@gmail.com # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -43,13 +44,13 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: al-folio
-blog_description: a simple whitespace theme for academics
+# blog_name: al-folio
+# blog_description: a simple whitespace theme for academics
 
-# Pagination
-paginate: 4
-permalink: /blog/:year/:title/
-paginate_path: /blog/page:num/
+# # Pagination
+# paginate: 4
+# permalink: /blog/:year/:title/
+# paginate_path: /blog/page:num/
 
 text:
   pagination:
