@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
 
 
-news: false
+news: true
 social: true
 ---
 

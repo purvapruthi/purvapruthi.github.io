@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2020-06-22 15:20:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+"Structure Mapping for Transferability of Causal Models" has been accepted for presentation at the  Inductive Biases, Invariances and Generalization in Reinforcement Learning Workshop, ICML 2020. <a href = "https://slideslive.com/38931337/structure-mapping-for-transferability-of-causal-models">[Talk]</a> <a href = "https://biases-invariances-generalization.github.io/pdf/big_26.pdf">[Paper]</a>
