@@ -2,24 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <p> Ph.D. candidate at University of Massachusetts, Amherst</p>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
+  address: 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a fifth year MS/Ph.D. student at UMass Amherst, advised by [David Jensen](https://groups.cs.umass.edu/jensen/). My research interests are in the field of Causality, Probabilistic Approaches to Machine Learning and Explainable AI. My research focuses on explaining the behavior of complex systems using causal inference. My long-term research goal is to design agents which can do causal reasoning, deal with uncertainty and can adapt to new situations using prior knowledge. I am also interested in applied machine learning. More specifically, I am interested in discovering novel causal mechanisms using machine learning and aid scientists for various fields in scientific discovery. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Previously, I worked with [Madalina Fiterau](https://www.cs.cmu.edu/~mfiterau/) at the intersection of causal reasoning and healthcare.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I spent eight months (Sept 2021 - May 2022) as AI resident at [Google X, The Moonshot Factory](https://x.company/) where I worked on applying causal inference techniques in solving the most challenging real-world problems. I also spent Summer 2018 at Amazon Cambridge, United Kingdom, working with [Javier Gonzalez](https://javiergonzalezh.github.io/) and [Xiaoyu Lu](https://xiaoyulu2014.github.io/) on designing a transfer-learning framework for reinforcement learning focusing on environments with visually changing features but same underlying causal dynamics.
+
+Prior to joining UMass as a graduate student, I worked at [Goldman Sachs](https://www.goldmansachs.com/) for three years. I worked on building statistical models for systematic investment strategies. I also worked on building statistical tools to analyze the root causes of undesirable behavior in trade settlement procedures.
+
+I graduated from [Indian Institute of Technology, Roorkee](https://iitr.ac.in/) in 2015. During my undergraduate program, I worked with [Durga Toshniwal](http://www.durgatoshniwal.in/) on spatio-temporal diffusion analysis of online information on Twitter. I also enjoyed doing competitive programming as part of Programming and Algorithms group in college.
+
+Outside work, I enjoy reading books, writing my thoughts about science and everything else (prose-style poetry). I love cooking, playing piano and taking long walks looking at the sunset, stars, (and sometimes the moon!)
