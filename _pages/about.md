@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <p> Ph.D. candidate at University of Massachusetts, Amherst</p>
 
