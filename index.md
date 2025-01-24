@@ -12,6 +12,8 @@ I am also a part-time consultant at [Offline Studio](https://www.offlinestudio.c
 I graduated from [Indian Institute of Technology, Roorkee](https://iitr.ac.in/) in 2015, where I worked with [Durga Toshniwal](http://www.durgatoshniwal.in/) on spatio-temporal diffusion analysis of online information on Twitter. I also enjoyed doing competitive programming as part of [Programming and Algorithms group (PAG)](https://pag.iitr.ac.in/) in college.
 Outside work, I enjoy writing prose poetry, reading books, playing piano, and doing yoga!
 
+{% include_relative _includes/publications.md %}
+
 ## News
 
 - **[Jun. 2024]** Our paper titled "Compositional Models for Estimating Causal Effects" is now available as a preprint on [arXiv](https://arxiv.org/abs/2406.17714).
@@ -25,7 +27,5 @@ Outside work, I enjoy writing prose poetry, reading books, playing piano, and do
 - **[Jun. 2020]** Our paper titled “Structure Mapping for Transferability of Causal Models” has been accepted for presentation at the  [Inductive Biases, Invariances and Generalization in Reinforcement Learning Workshop, ICML 2020](https://biases-invariances-generalization.github.io/pdf/big_26.pdf). [[Talk]](https://slideslive.com/38931337/structure-mapping-for-transferability-of-causal-models)
 - **[May 2019]** Started summer internship at Amazon, Cambridge, UK working with causal inference team.
 - **[Sep. 2018]** Started Ph.D. program in Computer Science at UMass Amherst.
-
-{% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
