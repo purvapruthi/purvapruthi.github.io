@@ -1,22 +1,32 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Compositional Models for Estimating Causal Effects
+    authors: <strong>Purva Pruthi</strong> and David Jensen
+    conference_short: Preprint
+    conference: Preprint, in submission (2024)
+    pdf: https://arxiv.org/abs/2406.17714
+    code: https://github.com/KDL-umass/compositional_models_cate
+    image: ./assets/img/compositional_approach.png
+    
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: How and Why to Use Experimental Data to Evaluate Methods for Observational Causal Inference
+    authors: Amanda Gentzel, <strong>Purva Pruthi</strong>, and David Jensen 
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2021.
+    pdf: http://proceedings.mlr.press/v139/gentzel21a/gentzel21a.pdf
+    code: https://github.com/KDL-umass/papers/tree/main/causal-eval-rct-icml-2021
+    notes: Poster
+    image: ./assets/img/OSRCT_approach.png
+
+
+  
+  - title: Structure Mapping for Transferability of Causal Models
+    authors: <strong>Purva Pruthi</strong>, Javier González, Xiaoyu Lu, and Madalina Fiterau
+    conference_short: ICML Workshop
+    conference: ICML 2020 Workshop on Inductive Biases, Invariances and Generalization in Reinforcement Learning 
+    pdf: https://arxiv.org/pdf/2007.09445.pdf
+    code: https://github.com/Information-Fusion-Lab-Umass/causal_transfer_learning
+    notes: Poster
+    image: ./assets/img/Transfer_approach.png
+
+  

@@ -1,0 +1,6 @@
+@article{pruthi2024compositional,
+  title={Compositional Models for Estimating Causal Effects},
+  author={Pruthi, Purva and Jensen, David},
+  journal={arXiv preprint arXiv:2406.17714},
+  year={2024}
+}

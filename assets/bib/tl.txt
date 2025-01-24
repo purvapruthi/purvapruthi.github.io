@@ -1,0 +1,6 @@
+@article{pruthi2020structure,
+  title={Structure mapping for transferability of causal models},
+  author={Pruthi, Purva and Gonz{\'a}lez, Javier and Lu, Xiaoyu and Fiterau, Madalina},
+  journal={arXiv preprint arXiv:2007.09445},
+  year={2020}
+}

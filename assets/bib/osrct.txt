@@ -1,0 +1,8 @@
+@inproceedings{gentzel2021and,
+  title={How and why to use experimental data to evaluate methods for observational causal inference},
+  author={Gentzel, Amanda M and Pruthi, Purva and Jensen, David},
+  booktitle={International Conference on Machine Learning},
+  pages={3660--3671},
+  year={2021},
+  organization={PMLR}
+}
