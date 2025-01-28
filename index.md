@@ -16,7 +16,7 @@ Outside work, I enjoy writing prose poetry, reading books, playing piano, and do
 
 ## News
 
-- **[Jun. 2024]** Our paper titled "Compositional Models for Estimating Causal Effects" is now available as a preprint on [arXiv](https://arxiv.org/abs/2406.17714).
+- **[Jan. 2025]** Our paper titled "Compositional Models for Estimating Causal Effects" has been accepted to the Conference on Causal Learning and Reasoning (CLeaR 2025)!
 - **[Jun. 2024]** Started as part-time AI consultant at [Offline Studio](https://www.offlinestudio.com/). I am helping early-stage startups building AI products using large-language models (LLMs) and retreiver-augmented generation (RAG) systems.
 - **[Feb. 2024]** Awarded the [CICS Dissertation Writing Fellowship](https://www.cics.umass.edu/news/spring-2024-dissertation-writing-fellowships) for Spring 2024.
 - **[May 2023]** Worked as [Data Science for Common Good (DS4CG)](https://ds.cs.umass.edu/industry/data-science-common-good) Fellow focusing on analysing energy consumption in Commonwealth buildings of Massachusetts. 
