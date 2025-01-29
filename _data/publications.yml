@@ -2,8 +2,8 @@ main:
 
   - title: Compositional Models for Estimating Causal Effects
     authors: <strong>Purva Pruthi</strong> and David Jensen
-    conference_short: Preprint
-    conference: Preprint, in submission (2024)
+    conference_short: CLeaR
+    conference: Conference on Causal Learning and Reasoning <strong>(CLeaR)</strong>, 2025.
     pdf: https://arxiv.org/abs/2406.17714
     code: https://github.com/KDL-umass/compositional_models_cate
     image: ./assets/img/compositional_approach.png
