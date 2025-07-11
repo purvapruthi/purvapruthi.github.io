@@ -12,7 +12,7 @@ Previously, I was an AI resident at [Google X, The Moonshot Factory](https://x.c
 
 ## News
 - **[Jun. 2025]** I’m starting a new position as Research Intern at [Toyota Research Institute](https://www.linkedin.com/company/toyota-research-institute/posts/?feedView=all) in Energy & Materials Division. 
-- **[May. 2025]** I presented our work titled "Compositional Models for Estimating Causal Effects" in the [Causal Learning and Reasoning (CLeaR 2025)](https://www.cclear.cc/2025)! Conference at Lausanne, Switzerland. This is joint work with my advisor, [David Jensen](https://groups.cs.umass.edu/jensen/). 
+- **[May 2025]** I presented our work titled "Compositional Models for Estimating Causal Effects" in the [Causal Learning and Reasoning (CLeaR 2025)](https://www.cclear.cc/2025)! Conference at Lausanne, Switzerland. This is joint work with my advisor, [David Jensen](https://groups.cs.umass.edu/jensen/). 
 - **[Jan. 2025]** Our paper titled "Compositional Models for Estimating Causal Effects" has been accepted to the Conference on [Causal Learning and Reasoning (CLeaR 2025)](https://www.cclear.cc/2025)!
 - **[Jun. 2024]** Started as part-time AI consultant at [Offline Studio](https://www.offlinestudio.com/). I am helping early-stage startups building AI products using large-language models (LLMs) and retreiver-augmented generation (RAG) systems.
 - **[Feb. 2024]** Awarded the [CICS Dissertation Writing Fellowship](https://www.cics.umass.edu/news/spring-2024-dissertation-writing-fellowships) for Spring 2024.
