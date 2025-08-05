@@ -6,6 +6,7 @@ main:
     conference: Conference on Causal Learning and Reasoning <strong>(CLeaR)</strong>, 2025.
     pdf: https://proceedings.mlr.press/v275/pruthi25a.html
     code: https://github.com/KDL-umass/compositional_models_cate
+    notes: Poster
     image: ./assets/img/compositional_approach.png
     
 
