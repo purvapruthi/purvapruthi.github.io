@@ -4,7 +4,7 @@ main:
     authors: <strong>Purva Pruthi</strong> and David Jensen
     conference_short: CLeaR
     conference: Conference on Causal Learning and Reasoning <strong>(CLeaR)</strong>, 2025.
-    pdf: https://arxiv.org/abs/2406.17714
+    pdf: https://proceedings.mlr.press/v275/pruthi25a.html
     code: https://github.com/KDL-umass/compositional_models_cate
     image: ./assets/img/compositional_approach.png
     
