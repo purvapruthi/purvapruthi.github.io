@@ -1,13 +1,13 @@
 main:
 
- - title: Why Transformers Succeed and Fail at Compositional Generalization: Composition Equivalence and Module Coverage
-   authors: <strong>Purva Pruthi</strong>, Andrew Yuan, Alexander D’Amour, and David Jensen
-   conference_short: CLeaR
-   conference: Conference on Causal Learning and Reasoning <strong>(CLeaR)</strong>, 2025.
-   pdf: https://proceedings.mlr.press/v275/pruthi25a.html
-   code: https://github.com/KDL-umass/compositional_models_cate
-   notes: Poster
-   image: ./assets/img/transformers_compositional_generalization.png
+  - title: Compositional Models for Estimating Causal Effects
+    authors: <strong>Purva Pruthi</strong> and David Jensen
+    conference_short: CLeaR
+    conference: Conference on Causal Learning and Reasoning <strong>(CLeaR)</strong>, 2025.
+    pdf: https://proceedings.mlr.press/v275/pruthi25a.html
+    code: https://github.com/KDL-umass/compositional_models_cate
+    notes: Poster
+    image: ./assets/img/compositional_approach.png
     
   - title: Compositional Models for Estimating Causal Effects
     authors: <strong>Purva Pruthi</strong> and David Jensen
