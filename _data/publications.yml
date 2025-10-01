@@ -5,8 +5,8 @@ main:
     conference_short: Preprint
     conference: Preprint, 2025.
     code: https://github.com/KDL-umass/task_based_compositional_generalization
-    image: ./assets/img/compositional_approach.png
-
+    image: ./assets/img/transformers_compositional_generalization.png
+    
   - title: Compositional Models for Estimating Causal Effects
     authors: <strong>Purva Pruthi</strong> and David Jensen
     conference_short: CLeaR
