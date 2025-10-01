@@ -1,5 +1,14 @@
 main:
 
+ - title: Why Transformers Succeed and Fail at Compositional Generalization: Composition Equivalence and Module Coverage
+  authors: <strong>Purva Pruthi</strong>, Andrew Yuan, Alexander D’Amour, and David Jensen
+  conference_short: Preprint
+  conference: Preprint, 2025.
+  pdf: TBA
+  code: https://github.com/KDL-umass/task_based_compositional_generalization
+  notes: Preprint
+  image: ./assets/img/transformers_compositional_generalization.png
+    
   - title: Compositional Models for Estimating Causal Effects
     authors: <strong>Purva Pruthi</strong> and David Jensen
     conference_short: CLeaR
