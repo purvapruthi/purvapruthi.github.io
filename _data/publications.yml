@@ -4,7 +4,6 @@ main:
     authors: <strong>Purva Pruthi</strong>, Andrew Yuan, Alexander D’Amour and David Jensen
     conference_short: Preprint
     conference: Preprint, 2025.
-    pdf: https://proceedings.mlr.press/v275/pruthi25a.html
     code: https://github.com/KDL-umass/task_based_compositional_generalization
     notes: Preprint
     image: ./assets/img/transformers_compositional_generalization.png
