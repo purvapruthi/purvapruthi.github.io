@@ -8,7 +8,7 @@ I am a final year Ph.D. candidate at the [Computer Science](https://www.cics.uma
 
 Previously, I had the opportunity to intern with the Energy & Materials Division at Toyota Research Institute, applying causal models for applications in fuel cell and battery design. I spent nine months as an AI resident at [Google X, The Moonshot Factory](https://x.company/), where I worked on causal inference applications in agriculture and biology. I also interned at Amazon Cambridge (Summer 2018), working with [Javier Gonzalez](https://www.microsoft.com/en-us/research/people/jagonz/) and [Xiaoyu Lu](https://xiaoyulu2014.github.io/) on developing a transfer-learning framework for reinforcement learning. Before my Ph.D., I spent three years at Goldman Sachs building statistical models for sell-side recommendations and trade settlement analysis. Outside of work, I enjoy writing prose poetry, reading popular science, science fiction books, playing piano, and practicing yoga.
 
-<span style="color:red">***I am currently on the industry job market for research scientist and postdoctoral positions in Fall'25/Spring'26.***</span>
+<span style="color:red">***I am currently on the industry job market for research scientist and postdoctoral positions.***</span>
 
 {% include_relative _includes/publications.md %}
 
