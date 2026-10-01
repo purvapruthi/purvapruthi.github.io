@@ -1,6 +1,6 @@
 main:
 
-  - title: Evaluating Compositional Generalization in Transformers: The Role of Composition Equivalence and Module Coverage
+  - title: Evaluating Compositional Generalization in Transformers - The Role of Composition Equivalence and Module Coverage
     authors: <strong>Purva Pruthi</strong>, Andrew Yuan, Alexander D’Amour and David Jensen
     conference_short: NeurIPS
     conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, Evaluations and Datasets Track, 2026.
