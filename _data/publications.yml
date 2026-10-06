@@ -4,7 +4,7 @@ main:
     authors: <strong>Purva Pruthi</strong>, Andrew Yuan, Alexander D’Amour and David Jensen
     conference_short: NeurIPS
     conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, Evaluations and Datasets Track, 2026.
-    pdf: https://drive.google.com/drive/u/0/home
+    pdf: https://drive.google.com/file/d/1SuyxLYuXNK9tp5QXLPqPWYq2zXI5XdzB/view?usp=sharing
     code: https://github.com/KDL-umass/task_based_compositional_generalization
     notes: Poster
     image: ./assets/img/transformers_compositional_generalization.png
